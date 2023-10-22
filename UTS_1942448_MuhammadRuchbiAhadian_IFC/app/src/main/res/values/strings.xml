@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cek IQ</string>
+    <string name="button_main">Cek Sekarang</string>
+    <string name="text_header2">Tingkat IQ</string>
+    <string name="editText_main">Nama Lengkap</string>
+    <string name="editText_second">Nilai IQ</string>
+</resources>
